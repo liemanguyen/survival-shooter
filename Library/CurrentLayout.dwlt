@@ -110,7 +110,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 1474
+  controlID: 4590
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 1352
+  controlID: 4604
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 1400
+  controlID: 4520
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -387,14 +387,14 @@ MonoBehaviour:
     height: 280
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 3431.6564246799257
+  lastFramingTime: 58182.05392635398
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.3269542, y: 0.70667076, z: 0.055853337}
+    m_Target: {x: 0.3269542, y: 0.70667076, z: 0.16005135}
     speed: 2
-    m_Value: {x: 0.3269542, y: 0.70667076, z: 0.055853337}
+    m_Value: {x: 0.3269542, y: 0.70667076, z: 0.16005135}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -422,13 +422,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.22772908, y: -0.31670442, z: 0.078615084, w: -0.9174215}
+    m_Target: {x: 0.12938458, y: 0.24164866, z: -0.032530606, w: 0.96115464}
     speed: 2
-    m_Value: {x: -0.2277291, y: -0.31670442, z: 0.078615084, w: -0.9174215}
+    m_Value: {x: -0.12938458, y: -0.24164867, z: 0.03253061, w: -0.96115464}
   m_Size:
-    m_Target: 4.56382
+    m_Target: 3.561634
     speed: 2
-    m_Value: 4.56382
+    m_Value: 3.561634
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -545,7 +545,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: eafbffff00000000
+    m_ExpandedIDs: 2e02fdff6c07fdfff0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -606,20 +606,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts/Managers
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts/Managers
+  - Assets/Prefabs
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\langu\survival-shooter
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 133}
-    m_SelectedIDs: 3e0c0000
-    m_LastClickedID: 3134
-    m_ExpandedIDs: 00000000e8090000080c00003c0c000000ca9a3bffffff7f
+    m_SelectedIDs: 840f0000
+    m_LastClickedID: 3972
+    m_ExpandedIDs: 00000000e0090000060c00003a0c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -647,7 +647,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 780b0000
     m_LastClickedID: 2936
-    m_ExpandedIDs: 00000000e8090000080c00003c0c000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000e0090000060c00003a0c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -674,7 +674,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: d20a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
